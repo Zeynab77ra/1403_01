@@ -2,5 +2,5 @@
 void main()
 {
   int a=0;
-  cout<<a;
+  cout<<a*2;
 }
