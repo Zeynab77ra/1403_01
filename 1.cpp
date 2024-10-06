@@ -2,5 +2,5 @@
 void main()
 {
   int a=0;
-  cout<<a*2;
+  cout<<"zeynab razani";
 }
